@@ -1,0 +1,405 @@
+fast-limbaromana/Care este seria de cuvinte corecte? / Innopteaza, inoada, innoata, inbie / Inopteaza, inoada, inoata, innbie / Innopteaza, innoada, inoata, imbie/ Innopteaza, innoada, inoata, inmbie /
+fast-limbaromana/Alege varianta corecta: / Ei o sa aiba o solutie / Ei o sa aibe o solutie. / Ei o sa aiva o solutie. / Ei o sa aive o solutie /
+fast-limbaromana/Care este sinonimul cuvantului ''tomnatic''? / Autumnal / Sepulcral / Hibernal / Autumnatic /
+fast-limbaromana/Alege varianta corecta: / Voi v-ati duce la plimbare. / Voi va-ti duce la plimbare. / Voi vat-i duce la plimbare. / Voi vati duce la plimbare. /
+fast-limbaromana/Romanul ''Ion'' a fost scris de... / Liviu Rebreanu /  George Calinescu / Mircea Eliade / Ioan Slavici /
+fast-limbaromana/Cuvantul ''avar'' inseamna: / Zgarcit / Econom / Risipitor / Generos / 
+fast-limbaromana/Care este tema romanului Maitreyi? / Iubirea incompatibila / Dragostea fata de arta / Iubirea implinita / Conditia omului de geniu /
+fast-limbaromana/In ce an a aparut romanul Ion? / 1920 / 1925 / 1932 / 1966 / 
+fast-limbaromana/Ce caracter are basmul Povestea lui Harap Alb? / Bildungsroman / Umoristic / Simetric / Circular /
+fast-limbaromana/In ce oras s-a infiintat Dacia literara? / Iasi / Arad / Timisoara / Bucuresti /
+fast-limbaromana/In romanul Ion, Ana este fiica lui: / Vasile Baciu / Invatatorul Herdelea / George Pintea / Aurel Ungureanu /
+fast-limbaromana/Intriga din romanul Enigma Otiliei se desfasoara: / Pe doua planuri / Invers / Circular / Pe trei planuri / 
+fast-limbaromana/Cum se numesc cele doua parti ale romanului Ion? / Glasul Pamantului si Glasul Iubirii / Ion si Ana si Ion si Florica / Glasul Dragostei si Tacerea de Aur / Romanul are o singura parte /
+fast-limbaromana/Ce sugerea titlul poeziei Plumb? / Apasarea, angoasa, greutatea sufocanta / Materialul din care era facut sicriul / Culoarea cosciugului / Nu are nici o semnificatie anume /
+fast-limbaromana/In cate acte se imparte comedia O scrisoare pierduta? / 4 / 3 / 6 / 5 /
+fast-limbaromana/Cine a scris opera ''Patul lui Procust''? / Camil Petrescu / Mircea Nedelciu / Marin Sorescu / Ion Creanga /
+fast-limbaromana/Cine a scris opera ''Moara cu noroc''? / Ioan Slavici / Sadoveanu / Liviu Rebreanu / Marin Sorescu /
+fast-limbaromana/Cine a scris opera ''O scrisoare pierduta''? / Ion Luca Caragiale / Camil Petrescu / George Calinescu / Ion Creanga /
+fast-limbaromana/In  enuntul ''Te iubesc, Petru.'' virgula are rolul: / de a izola substantivul in vocativ / de a izola apozitia / de a separa termenii unei enumerații / nu este corect pusa /
+fast-limbaromana/In structura ''pan-ai pierit'' cratima are rolul : / de a elida vocala si de a ajuta la pronuntarea legata a doua cuvinte diferite / de a elida o consoana / de a marca sfarsitul unui enunt / asa se scrie cuvantul /
+fast-limbaromana/Poemul ''Luceafarul'' de M. Eminescu apartine: / epocii marilor clasici / perioadei interbelice / perioadei postbelice / nu este poem /
+fast-limbaromana/Este poezie postbelica: / Leoaica tanara, iubirea / Testament / Eu nu strivesc corola de minuni a lumii / Plumb /
+fast-limbaromana/Testamentul de Tudor Arghezi este o creatie lirica: / modernista, interbelica / romantica, anterbelica / neomodernista, postbelica / romantica, interbelica /
+fast-limbaromana/Poezia care apartine simbolismului este: / Plumb de George Bacovia / Plumb de Ioan Slavici / Riga Crypto si lapona Enigel de Ion Barbu / Aci sosi pe vremuri de Ion Pilat /
+fast-limbaromana/''Aci sosi pe vremuri'' de Ion Pilat este: / poezie interbelica, traditionalista / poezie postbelica, neomodernista / poezie interbelica, modernista / poezie interbelica, neomodernista /
+fast-limbaromana/''Eu nu strivesc corola de minuni a lumii'' de Lucian Blaga este: / poezie interbelica, modernista / poezie interbelica, simbolista / poezie romantica / poezie postbelica, drama /
+fast-limbaromana/''Leoaica tanara, iubirea'' de Nichita Stanescu este: / poezie postbelica, neomodernista / poezie, interbelica, simbolista / poezie, anterbelica, neomodernista / poezie interbelica, modernista /
+fast-limbaromana/Ion Creanga se incadreaza in: / perioada marilor clasici / perioada postbelica / perioada interbelica / perioada renascentista /
+fast-limbaromana/Opera literara ''Povestea lui Harap Alb'' de Ion Creanga este: / basm cult / nuvela istorica / basm incult / nuvela realista /
+fast-limbaromana/Este nuvela realist-psihologica opera: / Moara cu noroc de Ioan Slavici / Baltagul de Mihail Sadoveanu / Alexandru Lapusneanu de Costache Negruzz / Moara cu noroc de Ion Creanga /
+normal-limbaromana/La ce se refera sintagma reflectarea poliedrica (cu privire la romanul Enigma Otiliei)? / Imaginea unui personaj este completata de parerea celorlaltor personaje / Imaginea personajului este reflectata doar de actiunile sale / Se pune accent pe introspectia personajelor / Se pune accentul pe dezvoltarea unui singur personaj /
+normal-limbaromana/La ce timp se afla verbul ''mananc'' din urmatoarea propozitie: Eu mancam atunci cand a venit? / Imperfect / Perfect / Perfect simplu / Prezumtiv /
+normal-limbaromana/Care dintre urmatoarele afirmatii NU sunt trasaturi ale genului liric? / Are o actiune bine definita in timp si spatiu / Ca moduri de expunere se folosesc preponderent descrierea subiectiva si monologul liric / Gandurile si sentimentele sunt exprimate in mod direct / Nu are personaje /
+normal-limbaromana/Cum il obliga Ion pe Vasile Baciu sa il accepte drept ginere? / O lasa insarcinata pe Ana / Devine bogat / Il santajeaza / Il minte ca este bolnav /
+normal-limbaromana/Poemul Luceafarul apare in anul: / 1883 / 1885 / 1873 / 1863 /
+normal-limbaromana/La ce se refera sintagma reflectarea poliedrica (cu privire la romanul Enigma Otiliei)? / Se pune accentul pe dezvoltarea unui singur personaj / Imaginea personajului este reflectata doar de actiunile sale / Imaginea unui personaj este completata de parerea celorlaltor personaje / Se pune accent pe introspectia personajelor / 
+normal-limbaromana/Care dintre urmatoarele poezii deschide volumul de debut, Poemele luminii si are rol de manifest literar? / Eu nu strivesc corola de minuni a lumii / Joc Secund / Leoaica, tanara iubirea / Testament /
+normal-limbaromana/Care dintre urmatoarele opere literare este construita sub forma unei confesiuni? / Ultima noapte de dragoste, intaia noapte de razboi / O scrisoare pierduta / Enigma Otiliei / Ion /
+normal-limbaromana/Care este ultima faza a dezumanizarii lui Ghita din Moara cu Noroc? / Cand o impinge pe sotia sa in bratele lui Lica Samadaul / Cand incepe sa se instraineze de familie / Cand da foc la moara / Cand isi paraseste familia /
+normal-limbaromana/Care dintre urmatoarele afirmatii despre timpul IMPERFECT este incorecta? / Este un timp al contemplarii viitorului / Este un timp al narativitatii subiective / Creeaza continuitatea unei stari din trecut / Este indice al trecerii de la realitate la imaginar /
+normal-limbaromana/Care este tema poeziei Eu nu strivesc corola de minuni a lumii? / Atitudinea poetica in fata marilor taine ale universului / Dificultatea adaptarii la o lume anosta si rece / Dezagregarea, descompunerea fiintei umane si a universului inconjurator. / Conditia omului de geniu /
+normal-limbaromana/Prin ce caracteristici NU poate fi definita nuvela fantastica? / Finalul este clar / Personajul se raporteaza intr-un fel diferit la lume / Existenta a doua planuri: real / ireal / Constructia subiectului nu este liniara /
+normal-limbaromana/Care dintre urmatoarele opere literare este considerata a fi o arta poetica neomoderna? / Leoaica, tanara iubirea / Lacustra / Testament / Flori de mucigai /
+normal-limbaromana/Din ce motiv este considerat titlul poeziei Flori de mucigai oximoron? / Datorita insolitei  alaturari a cuvintelor ce il compun / Pentru ca este la plural / Nu este considerat oximoron / Uneste doua cuvinte similare /
+normal-limbaromana/Unde obisnuia Ilie Moromete sa citeasca ziarul si sa aiba discutii politice cu prietenii sai? / Poiana lui Iocan / Pe prispa casei / In gradina sa / La poarta casei /
+normal-limbaromana/Contureaza dimensiunea temporala intr-un text structuri precum: / Intr-o seara de iulie, in timpul razboiului, din prima clipa / Toamna, în gradina,la scoala / La palat, pe prispa, in casa bunicilor / In poienita, vara, cu familia /
+normal-limbaromana/Contureaza dimensiunea spatiala intr-un text structuri precum: / In Campia Dunarii, la mare, acasa / Astazi, la tara, pe terasa / Vara, noaptea trecuta, atunci / Intr-o seara de iulie, in timpul razboiului, din prima clipa /
+normal-limbaromana/Sunt trasaturi ale genului liric : / prezenta instantei comunicarii lirice-eul liric, abundenta figurilor de stil, monologul liric / prezenta naratorului si a personajelor, abundenta figurilor de stil, monologul liric / prezenta instantei comunicarii lirice- eul liric, abundenta figurilor de stil, naratiunea / Naratiunea, prezenta personajelor, prezenta actiunii /
+normal-limbaromana/Sunt trasaturi ale genului epic: / prezenta instantelor comunicarii epice-narator, personaje, naratiunea / prezenta didascaliilor, naratiunea, eul liric / prezenta instanei comunicarii lirice- eul liric, naratiunea / abundenta figurilor de stil /
+normal-limbaromana/Sunt trasaturi ale genului dramatic / prezenta didascaliilor, structurarea pe acte si scene, dialogul / monolog liric, structurarea pe acte si scene, figuri de stil / prezenta instantei comunicarii lirice- eul liric, abundenta figurilor de stil, dialogul / prezenta didascaliilor, naratiunea, eul liric /
+normal-limbaromana/Genul liric cuprinde operele: / in care autorul isi transmite in mod direct gandurile prin intermediul eului liric / in care autorul isi transmite indirect gandurile cu ajutorul actiunii si al personajelor / scrise cu scopul de a fi reprezentate pe scena / in care autorul isi transmite direct gandurile prin intermediul didascaliilor /
+normal-limbaromana/Apartin modernismului poeziile din seria: / ''Testament'', ''Riga Crypto si lapona Enigel'', ''Eu nu strivesc corola de minuni a lumii'' / ''Testament'', ''Plumb'' / ''Luceafarul'', ''Testament'', ''Aci sosi pe vremuri'' / ''Aci sosi pe vremuri'', ''Plumb'', ''Leoaica tanara, iubirea'' /
+normal-limbaromana/Conceptele de '' cunoastere luciferica '' si ''cunoasterea paradisiaca'' sunt specifice liricii lui: / Mihai Eminescu / Tudor Arghezi / Lucian Blaga / Ioan Slavici /
+normal-limbaromana/Genul epic cuprinde operele: / operele in care gandurile si ideile sunt transmise in mod indirect prin intermediul actiunii si al personajelor / in care gandurile, ideile si sentimentele sunt transmise in mod direct prin intermediul eului liric / operele scrise cu scopul de afi peprezentate pe scena / in care sunt prezente figurile de stil /
+normal-limbaromana/Sunt romane interbelice: / Ion, Baltagul,Ultima noapte de dragoste intaia noapte de razboi, Enigma Otiliei / Ion, Baltagul, Morometii, Zmeura de campie / Baltagul, Morometii, Ion, Ultima noapte de dragoste intaia noapte de razboi, Enigma Otiliei / Enigma Otiliei, Ion, Morometii /
+normal-limbaromana/Au caracter de bildungsroman operele: / ''Povestea lui Harap Alb'', ''Baltagul'', ''Enigma Otiliei'' / ''Povestea lui Harap Alb'', ''Ion'', ''Morometii'' / ''Baltagul'', ''Moara cu noroc'', ''Alexandru Lapusneanu'' / ''Povestea lui Harap Alb'', ''Moara cu noroc '' /
+normal-limbaromana/Este roman interbelic, modern, subiectiv, de analiza psihologica, al experientei / Ultima noapte de dragoste, intaia noapte de razboi de Camil Petrescu / Enigma Otiliei de George Calinescu / Zmeura de campie de Mircea Nedelciu / Moara cu noroc de Ioan Slavici /
+normal-limbaromana/A fost publicata mai intai in revista Luceafarul (1968), apoi inclusa in trilogia ''Setea muntelui de sare'' opera: / Iona, de Marin Sorescu / Jocul ielelor, de Camil Petrescu / O scrisoare pierduta, de Ion Luca Caragiale / Iona de George Bacovia /
+normal-limbaromana/Satirizarea defectelor - moravurilor societatii romanesti de la sfarsitul secolului al XIX-lea constituie tema operei: / O scrisoare pierduta, de Ion Luca Caragiale / Iona, de Marin Sorescu / Jocul ielelor, de Camil Petrescu / La tiganci, de Camil Petrescu /
+normal-limbaromana/Tema literara a dramei Iona, de Marin Sorescu o constituie: / destinul omului captiv in propriul sau destin - conditia umana / drama intelectualului lucid insetat de absolut / lupta pentru putere / lupta pentru avere /
+af-limbaromana/Rochia are un imprimeu florar. / Adevarat / Fals /
+af-limbaromana/Romanul Ion este o monografie a vietii rurale in Campia Dunarii inaintea celui de-al doilea Razboi Mondial. / Fals / Adevarat /
+af-limbaromana/Autorul omniscient nareaza la persoana I. / Fals / Adevarat /
+af-limbaromana/Basmul este o specie in proza a genului epic in cuprinsul careia se povestesc intamplari miraculoase, puse pe sema unor personaje sau forte supranaturale. / Adevarat / Fals /
+af-limbaromana/Factura balzaciana a romanului Enigma Otiliei este data de modalitatea de constructie a personajelor si de temele abordate mostenirea si dragostea. / Adevarat / Fals / 
+af-limbaromana/Simetria compozitionala din Morometii este data de legatura dintre personaje si actiune. / Fals / Adevarat /
+af-limbaromana/La inceputul comediei O scrisoare pierduta, prefectul orasului era Stefan Tipatescu / Adevarat / Fals /
+af-limbaromana/La Tiganci este o nuvela fantastica. / Adevarat / Fals / 
+af-limbaromana/Procedeul circularitatii apare in Morometii. / Adevarat / Fals /
+af-limbaromana/Unul dintre planurile intrigii din Enigma Otiliei consta in moartea lui mos Costache / Fals / Adevarat / 
+af-limbaromana/In Iona se foloseste metoda bulgarelui de zapada. / Fals / Adevarat /
+af-limbaromana/Capitolul Ai să dai samă, doamnă!? face parte din Alexandru Lapusneanu. / Adevarat / Fals 
+af-limbaromana/Familia lui Moromete locuia in Prislop. / Fals / Adevarat / 
+af-limbaromana/Actiunea nuvelei Moara cu Noroc se petrece intre Sfantul Vasile si Paste. / Fals / Adevarat / 
+af-limbaromana/Motivul central al operei Iona este singuratatea. / Fals / Adevarat / 
+af-limbaromana/''Estetica uratului'' este o tehnica inovatoare introdusa in lirica romaneasca de Mihai Eminescu / Fals / Adevarat /
+af-limbaromana/Conditia omului de geniu este tema literara in Luceafarul: / Adevarat / Fals /
+af-limbaromana/Arta poetica este creatia lirica in care autorul isi exprima, cu ajutorul unor mijloace artistice adecvate, propria conceptie despre lume si despre rolul artistului si ale operei sale in societate. / Adevarat / Fals /
+af-limbaromana/''Plumb'' este scrisa de George Bacovia si a fost publicata in volumul ''Plumb'', in 1916. / Adevarat / Fals /
+af-limbaromana/Poezia ''Testament'' este scrisa de Lucain Blaga si este arta poetica neomodernista / Fals / Adevarat /
+af-limbaromana/''Leoaica tanara, iubirea'' de Nichita Stanescu se incadreaza in neomodernism si a fost publicata in 1964 in volumul '' O viziune a sentimentelor ''. / Adevarat / Fals /
+af-limbaromana/Formele verbale si pronominale de pers I si a II- a, substantivele in vocativ, interjectiile reprezinta marci ale subiectivitatii intr-un text. / Adevarat / Fals /
+af-limbaromana/Punctele de suspensie, semne de punctuatie, marcheaza intreruperea discursului epic, liric, dramatic, intensifica starile eului liric, naratorului, personajului si au rol meditativ. / Adevarat / Fals /
+af-limbaromana/Substantivul inima din enuntul ''S-a afundat in inima padurii'' are sens conotativ. / Adevarat / Fals /
+af-limbaromana/''Luceafarul'' de Mihai Eminescu apartine Epocii marilor clasici si a fost publicata in revista Dacia literara. / Fals / Adevarat /
+af-limbaromana/''Eu nu strivesc corola de minuni a lumii'' a lui Lucian Blaga este o creatie lirica interbelica, modernista, publicata in volumul ''Poemele luminii'' (1919). / Adevarat / Fals /
+af-limbaromana/Opera literara Alexandru Lapusneanu de Costache Negruzzi apartine perioadei pasoptiste/ Adevarat / Fals /
+af-limbaromana/Opera literera Alexandru Lapusneanu este nuvela istorica si romantica. / Adevarat / Fals /
+af-limbaromana/Sunt romane postbelice Ion si Morometii. / Fals / Adevarat /
+af-limbaromana/Este traditional romanul Enigma Otiliei de George Calinescu ? / Fals / Adevarat /
+fast-istorie/Daco-getii au reprezentat ramura: / nordica a tracilor / sudica a tracilor / nordica a slavilor / sudica a slavilor /
+fast-istorie/Rezultatul procesului istoric al romanizarii a constat in formarea unui nou popor: / cel al daco-romanilor /  cel geto-dacic /  cel geto-tracic / cel roman /
+fast-istorie/Romanitatea romanilor a devenit un subiect de controversa istorica la sfarsitul secolului: / al XVIII-lea / al XVI-lea / al VIII-lea / al XI-lea /
+fast-istorie/Disputa in jurul romanitatii si a continuitatii romanilor s-a desfasurat din secolul al XVIII-lea din motive: / politice / religioase / imigrationiste / romantice /
+fast-istorie/Limba romana face parte din familia limbilor: / romanice, neolatine / slave, tracice / romanice, indo-europene / romanice, dacice/
+fast-istorie/Slavii ajung pe teritoriul Daciei in numar foarte mare in: / secolul al VI-lea dHr / secolul al VIII-lea dHr / secolul al X-lea dHr / secolul al IV-lea dHr /
+fast-istorie/Constitutia Romaniei promulgata de principele Carol I in anul: / 1 iulie 1866 / 1 iunie 1866 / 1 iulie 1886 / 1 iunie 1886 /
+fast-istorie/Prima constitutie comunista a fost adoptata in anul: / 1948 / 1950 / 1938 / 1968 /
+fast-istorie/Aprobarea unei legi de conducatorul unui stat, pentru a-i da caracter executoriu se numeste: / sanctionare / referendum / act sau lege fundamentala / revolta /
+fast-istorie/Constitutia din anul 1938 a fost aplicata pana in anul: / 1940 / 1950 / 1941 / 1938 /
+fast-istorie/Constitutiile comuniste din anii 1948 si 1952 sunt inspirate dupa legea fundamentala a: / URSS / Belgia / Franta / Germania /
+fast-istorie/Constitutia care acorda puteri sporite regelui a intrat in vigoare in: / 27 februarie 1938 / 27 februarie 1968 / 27 martie 1938 / 27 martie 1940 /
+fast-istorie/Dupa 1945, in prima etapa a Razboiului Rece, Romania se afla in sfera de influenta: / sovietica / slava / engleza / turceasca /
+fast-istorie/Romania a stabilit relatii diplomatice cu Republica Federala Germania in anul: / 1967 / 1966 / 1957 / 1956 /
+fast-istorie/Romania devine membra a Organizatiei Natiunilor Unite in anul: / 1955 / 1954 / 1953 / 1951 /
+fast-istorie/Razboiul de 100 de Ani dintre Anglia si Franta a fost purtat: / Intre anii 1337 - 1453 / Intre anii 1437 - 1555 / Intre anii 1237 - 1353 / Intre anii 1534 - 1653 /
+fast-istorie/Dacia romana a existat: / 165 de ani / 34 de ani / 67 de ani / 80 de ani /
+fast-istorie/Belgia a adoptat o constitutie liberala, dupa despartirea de Regatul Olandei. In ce an s-a intamplat acest eveniment? / 1831 / 1839 / 1821 / 1845 /
+fast-istorie/Tarile scandinave anexate de Hitler in anul 1940 sunt: / Danemarca si Norvegia / Doar Danemarca / Suedia si Norvegia / Suedia, Danemarca si Norvegia /
+fast-istorie/Presedintele bulgar Petar Mladenov a fost obligat de catre opozitie sa se retraga: / In anul 1990 / In anul 1989 / In anul 1999 / In anul 1991 / 
+fast-istorie/In ce perioada a Primului Razboi Mondial, Romania a adoptat pozitia de neutralitate? / 1914 - 1916 / 1901 - 1905 / 1905 - 1911 / 1940 - 1960 /
+fast-istorie/In ce an s-a destramat URSS? / 1991 / 1992 / 1989 / 1990 /
+fast-istorie/Germania si Italia au declarat razboi Statelor Unite ale Americii in data de: / 11 decembrie 1941 / 11 februarie 1944 / 11 mai 1945 / 11 iulie 1954 /
+fast-istorie/... a pierdut aproximativ doua treimi din teritoriu prin Pacea de la Trianon. / Ungaria / Rusia / Romania / Franta /
+fast-istorie/Spartanii in Razboiul peloponesiac au infruntat: / atenienii / atticanii / sicilienii / grecii /
+fast-istorie/Cuceritorului Mexicului se numea Cortez ... ? / Hernando / Armando / Diego / Joaquin /
+fast-istorie/Cand a adoptat imparatul Franz Iosef o Constitutie prin care recunostea autonomia Transilvaniei? / 4 martie 1848 / 4 martie 1850 / 4 martie 1851 / 4 martie 1849 /
+fast-istorie/Cand au invadat Transilvania trupele maghiare conduse de generalul Iosif Bem? / Decembrie 1848 / Mai 1848 / Martie 1848 / Ianuarie 1848 / 
+fast-istorie/Cand are loc Marea Adunare Nationala de la Blaj? / 3-15 Mai 1848 / 3-15 Mai 1869 / 3-15 Mai 1821 / 3-15 Mai 1855 /
+fast-istorie/La ce data a inceput revolutia la Bucuresti cand domnitorul Gheorghe Bibescu a aprobat Constitutia (Proclamatia de la Islaz)? / La 30 iunie / La 5 iunie / La 24 iunie / La 11 iunie /
+normal-istorie/Institutia financiara internationala cu sediul la Washington prin care sunt sprijinite statele aflate in curs de dezvoltare, creata in anul 1945 se numeste: / Fondul Monetar International / Banca Mondiala / Organizatia Natiunilor Unite / Fondul Monetar National /
+normal-istorie/In perioada 1965 - 1989 regimul national -comunist ale lui Nicolae Ceausescu a continuat politica externa de distantare fata de: / Moscova / Paris / Berlin / Budapesta /
+normal-istorie/Supus presiunilor Moscovei, regele Mihai a fost obligat sa accepte formarea guvernului condus de Petru Groza, aflat sub control P.C.R la: / 6 martie 1945 / 6 aprilie 1945 / 6 martie 1946 / 6 aprilie 1946 /
+normal-istorie/Disidenta a reprezentat o forma individuala de protest, specifica regimului national-comunist al lui: / Nicolae Ceausescu / Ion Iliescu / Petru Groza / Gheorghe Gheorghiu Dej /
+normal-istorie/Demonstratiile de protest de la Timisoara (declansate de intentia Securitatii de a-l evacua din locuina sa pe pastorul Laszlo Tokes) au avut loc in: / 16 - 21 decembrie 1989 / 21 - 22 decembrie 1989 / 21 decembrie 1989 / 25 decembrie 1989 /
+normal-istorie/Primul domnitor al Tarilor Romane care a dus o politica de cruciada antiotomana a fost: / Mircea cel Batran / Mihai Viteazul / Vlad Tepes / Iancu de Hunedoara /
+normal-istorie/Batalia de la Vaslui (Podul Inalt) unde Stefan cel Mare a obtinut o stralucita victorie impotriva Imperiului Otoman a avut loc in anul: / 1475 / 1476 / 1745 / 1764 /
+normal-istorie/Teoria continuitatii romanilor in spatiul carpato-danubiano-pontic a fost sustinuta si dezvoltata, cu argumente istorice, lingvistice si arheologice, de istorici precum: / B.P. Hasdeu, Dimitrie Onciul si A.D. Xenopol / Reprezentantii Scolii Ardelene / Gh. Sincai, P. Maior si Samuil Micu / B.P Hasdeu, Gh Sincai /
+normal-istorie/În secolul al XIX-lea, in conditiile anexarii Transilvaniei la Ungaria, dupa transformarea Imperiului Habsburgic in Imperiul Austro-Ungar (1867), Robert Roesler a dezvoltat: / teoria imigrationista / teoria continuitatii / teoria autohtonista / teoria religioasa /
+normal-istorie/Procesul etnogenezei romanesti care a stat la baza formarii poporului roman s-a incheiat la: / Sfarsitul secolului al VIII-lea si la inceputul secolului al IX-lea / ASfarsitul secolului al VII-lea si la inceputul secolului al IX-lea / ASfarsitul secolului al VII-lea si la inceputul secolului al X-lea / ASfarsitul secolului al VI-lea si la inceputul secolului al X-lea /
+normal-istorie/Dupa abandonarea Daciei de romani in urma retragerii aureliene din anul 271/275, procesul de romanizare a continuat ca urmare a / legaturilor cu Imperiul Roman / legaturilor cu dacii liberi / legaturilor cu noul val al popoarelor migratoare / legaturilor cu slavii liberi /
+normal-istorie/Conform constitutiei din 1866, parlamentul avea o structura bicamerala, fiind alcatuit din: / Adunarea Deputatilor si Senat / Adunarea Deputatilor din Guvern / Adunarea Deputatilor si Curtea de Justitie / Adunarea Deputatilor si Guvern /
+normal-istorie/Perioada de declin in care a intrat Imperiul Otoman de la sfarsitul secolului al XVIII lea se numeste: / Criza Orientala / destramarea Imperiului Otoman / uniunea nationala / libertate /
+normal-istorie/Dupa actiunile de politica antiotomana desfasurate de Constantin Brancoveanu si Dimitrie Cantemir, Imperiul Otoman a instaurat in Tara Romaneasca si Moldova domniile: / fanariote / pamantene / suzerane / otomane /
+normal-istorie/In cronica notarului anonim al regelui maghiar Bela - Gesta Hungarorum (Faptele ungurilor) sunt mentionate voievodatele din: / Transilvania - Banat / Tara Romaneasca / Moldova / Ardeal /
+normal-istorie/La 205 ani dupa moartea sa, corpul unui rege prusac a fost readus la Potsdam. Cum se numea regele respectiv? / Frederic al II-lea / Frederic al IV-lea / Frederic al I-lea / Frederic al III-lea /
+normal-istorie/Tortura in Anglia a fost abolita: / In anul 1638 / In anul 1637 / In anul 1645 / In anul 1636 /
+normal-istorie/Pe 6 si pe 7 iulie 1700 in Marea Egee, flota otomana a nimicit in batalia navala: / Flota germana / Flota turceasca / Flota ruseasca / Flota romaneasca /
+normal-istorie/Parlamentul israelian, Knesset, s-a reunit pentru prima oara: / 14 februarie 1949 / 2 mai 1945 / 19 februarie 1959 / 22 ianuarie 1944 /
+normal-istorie/In anul 1887, de Ferdinand I de Saxa-Coburg a condus statul: / Bulgaria / Ungaria / Iugoslavia / Rusia /
+normal-istorie/... este cel mai vechi document constitutional al Angliei. / Magna Charta / Codex Argentus / Kamanche / Manuscrisul de la Londra /
+normal-istorie/Tratatul de la Balta-Liman. / 1 mai 1849 / 1 mai 1852 / 1 mai 1855 / 1 mai 1812 /
+normal-istorie/Rrebeliunea legionara a fost infranta in perioada: / 21 - 23 ianuarie 1941 / 21 - 23 ianuarie 1944 / 21 - 23 ianuarie 1939 / 21 - 23 ianuarie 1940 /
+normal-istorie/In data de ... Ion Antonescu a fost numit sef de guvern. / 4 septembrie 1940 / 4 septembrie 1939 / 4 septembrie 1942 / 4 septembrie 1944 /
+normal-istorie/Anii de domnie ai regelui Ferdinand al Romaniei: / 1914 - 1927 / 1912 - 1925 / 1910 - 1923 / 1916 - 1929 /
+normal-istorie/Cand a declarat Romania razboi Austro-Ungariei? / 14-Aug-16 / 14-Aug-20 / 14-Aug-22 / 14-Aug-18 /
+normal-istorie/In anul ... in Transilvania limba maghiara a devenit limba oficiala printr-o lege a invatamantului. / 1862 / 1865 / 1868 / 1860 / 
+normal-istorie/In anul ... limba germana a devenit limba oficiala in Transilvania. / 1847 / 1844 / 1848 / 1840 /
+normal-istorie/Cand a fost adoptata Legea pentru secularizarea averilor manastiresti, prin care un sfert din suprafata agricola a tarii a trecut in propietatea statului? / 13-25 decembrie 1863 / 13-25 decembrie 1860 / 13-25 decembrie 1867 / 13-25 decembrie 1869 / 
+normal-istorie/La ce data s-a format un guvern unic al Principatelor Unite, condus de Barbu Catargiu? / 22 ianuarie 1862 / 7 ianuarie 1862 / 30 ianuarie 1862 / 13 ianuarie 1862 /
+af-istorie/Romania a luat parte activ la Conferinta pentru Securitate si Cooperare in Europa de la Helsinki in anul 1975 / Fals / Adevarat /
+af-istorie/Constitutia comunista din 1965 avea 114 articole: / Adevarat / Fals /
+af-istorie/Constitutia din 1923 a contribuit la consolidarea statului roman in urma realizarii Marii uniri / Adevarat / Fals /
+af-istorie/Nationalizare = consultarea cetatenilor in privinta unor probleme importante de stat in care li se solicita sa raspunda pozitiv sau negativ:/ Fals / Adevarat /
+af-istorie/Romania nu a participat la invadarea Cehoslovaciei de catre armatele statelor Organizatiei Tratatului de la Varsovia din anul 1968 / Adevarat / Fals/
+af-istorie/Regele Mihai I a fost nevoit sa abdice la 30 decembrie 1947 / Adevarat / Fals /
+af-istorie/Regimul stalinist al lui Gheorghe Gheorghiu Dej a avut loc in perioada 1948-1966 / Fals / Adevarat /
+af-istorie/Sovietizare = trecerea in proprietatea statului a obiectivelor economice si sociale aflate in proprietatea privata: / Fals / Adevarat /
+af-istorie/Trupele sovietice s-au retras din Romania in anul 1958 / Adevarat / Fals /
+af-istorie/''Revolutie culturala'' de inspiratie chineza si nord-coreeana s-a desfasurat in Romania in perioada 1965 - 1989 / Fals / Adevarat /
+af-istorie/Greva minerilor din Valea Jiului impotriva regimului ceausist  a avut loc in  anul 1977 / Adevarat / Fals /
+af-istorie/Securitatea institutiei cu rol de politie politica a fost infiintata in anul 1948 / Adevarat / Fals /
+af-istorie/Capitulatie = documentul incheiat intre Tarile Romane si Imperiul Otoman care prevedea obligatiile si statutul acestora in raport cu Poarta / Adevarat / Fals /
+af-istorie/Primul domnitor care a luptat impotriva ostilor otomane pe teritoriul tarii sale a fost Mircea cel Batran / Adevarat / Fals /
+af-istorie/Stefan cel Mare a fost domnitor al Moldovei in perioada 1457 - 1501 / Fals / Adevarat /
+af-istorie/Hermann Goring este fondatorul Partidul German al Patriei, de orientare conservatoare? / Fals / Adevarat /
+af-istorie/Ludovic al III-lea nu este monarhul care a avut cea mai lunga domnie din istorie. / Adevarat / Fals /
+af-istorie/Victor Hugo este secretarul de stat american ce a elaborat planul pentru reconstructia Europei dupa cel de-al 2-lea Razboi Mondial. / Fals / Adevarat /
+af-istorie/Conferinta de la Berna este conferinta din 1945 in cadrul careia a fost stabilita linia Oder-Neisse drept granita de rasarit a Germaniei. / Fals / Adevarat /
+af-istorie/EFTA = Comunitatea Europeana a Comertului Liber. / Adevarat / Fals /
+af-istorie/Ahmad Sah Durrani s-a proclamat in anul 1747 drept rege al Indiei. / Fals / Adevarat /
+af-istorie/In anul 1889 insulele Filipine au dobandit , cu ajutor american, independenta fata de Spania. / Fals / Adevarat /
+af-istorie/RAF = Fractiunea Armata Rosie. / Adevarat / Fals /
+af-istorie/Armata Rosie este armata intemeiata si perfectionata de Lev Trotki. / Adevarat / Fals /
+af-istorie/Siria este statul persan ce a fost infiintat in anul 1747. / Fals / Adevarat /
+af-istorie/La Bucuresti a fost publicat pentru prima oara Manifestul comunist. / Fals / Adevarat /
+af-istorie/Manifestul comunist a fost publicat in anul 1848. / Adevarat / Fals /
+af-istorie/In 1914 Marea Britanie a recunoscut Afghanistanul ca fiind independent politic. / Fals / Adevarat /
+af-istorie/Tarul Alexandru al III-lea a cazut victima in anul 1881 unui atentat cu bomba pus la cale de gruparea anarhista "Vointa Poporului". / Fals / Adevarat /
+af-istorie/Hitler a ajuns la presedintia NSDAP-ului in 1929. / Fals / Adevarat /
+fast-geografie/Muntii Vosgi se afla pe teritoriul statului: / Franta / Spania / Suedia / Germania /
+fast-geografie/Pe teritoriul carui stat se afla Muntii Padurea Neagra? / Germania / Ungaria / Austria / Serbia /
+fast-geografie/In nordul carui stat se afla Campia Padului? / Italia / Romania / Polonia / Spania /
+fast-geografie/Pe teritoriul carui stat se afla Muntii Pindului? / Grecia / Italia / Romania / Franta /
+fast-geografie/Fluviul Ebro strabate teritoriul statului a carui capitala este orasul marcat, pe harta, cu numarul: / Spania / Italia / Franta / Anglia /
+fast-geografie/Fluviul Ron strabate teritoriul statului a carui capitala este: / Paris / Madrid / Rome / Berlin /
+fast-geografie/Vegetatia de stepa se dezvolta pe soluri numite: / cernoziomuri / spodosoluri / argiluvisoluri / Niciun raspuns nu este corect /
+fast-geografie/Mistralul bate in sudul statului: / Franta / Spania / Anglia / Italia /
+fast-geografie/Vanturile polare bat in : / Norvegia / Ucraina / Olanda / Germania /
+fast-geografie/Bora este un vant care bate pe teritoriul: / Croatiei / Norvegiei / Suediei / Italiei /
+fast-geografie/Din generatia oraselor antice face parte orasul-capitala / Londra / Roma / Madrid / Paris /
+fast-geografie/Face parte din grupa lingvistica romanica, limba vorbita de locuitorii statului / Italia / Germania / Ucraina / Rusia /
+fast-geografie/Orasul-capitala al statului care isi asigura energia electrica aproape 100% din resursele hidroenergetice este / Oslo / Stockholm / Paris / Moscova /
+fast-geografie/Din care subdiviziune a Carpatilor fac parte Muntii Padurea Craiului? / Muntii Apuseni / Grupa Retezat / Carpatii Curburii / Grupa Bucegi /
+fast-geografie/Podisul Getic se intinde intre… / Dambovita si Dunare / Prahova si Motru / Dambovita si Jiu / Prahova si Dunare /
+fast-geografie/Roca sedimentara alcatuita din silicati de aluminiu, foarte raspindita in natura si folosita in olarie este: / Argila / Cuartul / Namolul / Calcarul /
+fast-geografie/Insula de forma unui inel, cu unele intreruperi, construita prin depunerea scheletelor de corali, ce au la mijloc un lac de tip laguna si care comunica sau nu cu marea prin mici canale: / Atol / Baraj / Inel / Peninsula /
+fast-geografie/Fauna pesterilor este studiata in: / Biospeologie / Biogeologie / Biopesterologie / Biogeografie /
+fast-geografie/Roca sedimentara formata din carbonat de calciu: / Calcar / Opal / Marmura / Granit /
+fast-geografie/Campiile formate datorita migrarii orizontale si adancirii raurilor mari acoperite cu loess: / Campii tabulare / Campii loessice / Campii joase / Campii inecate /
+fast-geografie/Lantul de incretituri ale scoartei terestre, care se formeaza cam in acelasi timp: / Catena / Sist / Ravena / Eroziune /
+fast-geografie/Vantul puternic, rece, care sufla iarna in Romania dinspre nord-est: / Crivat / Vantul de Nord-Est / Tornada / Uragan /
+fast-geografie/Cum se numeste sedimentul silicios, consolidat, format din depunerea cochiliilor de diatomee tripoli, kiselgur? / Diatomita / Calcar / Argila / Feldspat /
+fast-geografie/Cum se numeste structura geologica in forma de bolta larga circulara sau eliptica? / Dom / Stalacnita / Gheizer / Cupola /
+fast-geografie/Cum se numeste movila de nisip formata de vant in regiunile nisipoase? / Duna / Dom / Acumulare eroziva / Adunare nisipoaza /
+fast-geografie/In ce masiv carpatic se gasesc cele mai complexe si mai extinse forme glaciare? / Retezat / Surianu / Cernei / Bucegi /
+fast-geografie/Dunarea si-a format cursul prin defileu prin fenomenul: / Captare / Erodare / Acumulare / Prabusire /
+fast-geografie/Pedimentele din Dobrogea erau confundate cu : / terase dunarene si marine / muntii / podisuri / campiile /
+fast-geografie/Principala cauza de formare a teraselor din munti si Subcarpati: / Tectonica / Vulcanica / Acumulare / Alunecare /
+fast-geografie/Care este locul central al geosistemului teritorial romanesc? / Podisul Transilvaniei / Campia Romana / Campia de Vest / Carpatii de Curbura /
+normal-geografie/Fluviul Volga strabate teritoriul statului a carui capitala este : / Moscow / Volgograd / Tver / Sankt Petersburg /
+normal-geografie/Fluviul Elba strabate teritoriul statului a carui capitala este: / Berlin / Dresden / Lauenburg / Stendal /
+normal-geografie/Fluviul Arno strabate teritoriul statului si orasul : / Italia - Florenta / Italia - Roma / Italia - San Marino / Italia - Bologna /
+normal-geografie/Altitudinea minima in Europa se afla pe teritoriul statului / Rusia / Germania / Ucraina / Ungaria /
+normal-geografie/Padurile de conifere se dezvolta pe soluri numite: / spodosoluri / argiluvisoluri / cernoziomuri / Niciun raspuns nu este corect /
+normal-geografie/Padurile de foioase se dezvolta pe soluri numite: / argiluvisoluri / cernoziomuri / spodosoluri / Niciun raspuns nu este corect /
+normal-geografie/Bilantul natural al populatiei in Belgia este : / pozitiv / negativ / in scadere / nedeterminat /
+normal-geografie/Gruparea de tip megalopolis Randstad-Holland se afla in / Olanda / Germania / Belgia / Ucraina /
+normal-geografie/Energia mareelor este valorificata in: / Franta / Italia / Grecia / Olanda /
+normal-geografie/Depresiunea Fagarasului face parte din: /  Depresiunea Colinara a Transilvaniei / Grupa Muntilor Fagaras  / Subcarpatii Getici / Grupa Muntilor Parang /
+normal-geografie/Cea mai mare inaltime din Grupa Muntilor Parang este / 2519 m / 2509 m / 2505 m / 2535 m /
+normal-geografie/Podisul Mehedinti este alcatuit din: / sisturi cristaline si calcare / sisturi cristaline si granit / argile si marne / calcare si loess /
+normal-geografie/Din care unitate de relief face parte Podisul Tarnavelor? / Depresiunea Colinara a Transilvaniei / Podisul Moldovei / Podisul Getic / Dealurile de Vest /
+normal-geografie/Din care subdiviziune a Carpatilor fac parte Muntii Iezer? / Grupa Fagaras / Grupa Parang / Carpatii Curburii / Grupa Bucegi /
+normal-geografie/Care din urmatoarele companii are ponderea ce mai mare pe piata energiei electrice a Romaniei? / Hidroelectrica / Nuclearoelectrica / Complexul energetic Rovinari / Complexul energetic Turceni /
+normal-geografie/De ce se manifesta o puternica abraziune pe litoralul romanesc? / Datorita cresterii nivelului Marii Negre cu 2 mm pe an / Datorita scaderii nivelului Marii Negre cu 3 mm pe an / Datorita cresterii nivelului Marii Negre cu 5 mm pe an / Datorita scaderii nivelului Marii Negre cu 7 mm pe an /
+normal-geografie/In care subregiune geografica a Dobrogei apare cel mai dezvoltat carst? / Dobrogea de Sud / Dobrogea de Vest / Dobrogea de Est / Dobrogea de Nord /
+normal-geografie/Podisul din Romania care este cel mai complex ca geneza si subtipuri. / Podisul Dobrogei / Podisul Moldovei / Podisul Transilvaniei / Podisul Covurlui /
+normal-geografie/Varsta celor mai carstificate calcare din Romania. / Mezozoic / Cambrian inferior / Villafranchian / Neoproterozoic /
+normal-geografie/Geneza teraselor din depresiunile Fagaras si Sibiu. / Climatica / Eoliana  / Aluviala / Deluviala /
+normal-geografie/Ghetarii de platou din Carpati se aflau: / In muntii Borascu, Fagaras, Bucegi / In muntii Lapusului, Feredeu, Maramuresului / In muntii Padurea Craiului, Gilau, Codru-Moma / In muntii Tibles, Mestecanis, Oas /
+normal-geografie/Specificul suprafetelor de nivelare din Carpatii Orientali: / Cea mai pregnanta asimetrie a dispunerii acestora / Cea mai calcaroasa suprafata / Cea mai erodata suprafata / Cea mai neinsemnata asimetrie a dispunerii acestora /
+normal-geografie/Tipurile de ghetari instalati in Carpati: / Ghetar pirinean, alpin, complex alpin, de platou / Ghetar de vale / Ghetar de coasta / Ghetar suspendat /
+normal-geografie/Relieful este suport sau element primar al mediului? / Suport si element / Element de mediu / Suport / Nu este nici suport nici element /
+normal-geografie/Tipurile principale de mediu natural pe teritoriul Romaniei sunt urmatoarele: / Montan, subcarpatic, de podis, de campie, deltaic, litoral, marin / Oceanic, stepic, de padure cu foioase, de conifere / Carpatic, transilvan, moldav, dobrogean, deltaic, marin / Stepic, de padure, de conifere, de deal, de munte, de campie /
+normal-geografie/Mediile antropizate din Romania: / Agricol, urban, rural / Pasunile, fanetele, podgoriile / Fanete, montane, podgoriile / Stepa, agricol, rural /
+normal-geografie/Tipurile genetice de campii care au influenta in ce priveste mediul lor local sunt: / Campiile subdeluroase, subsidente, luncile tabulare / Campiile de glacis, piemontane, de terase / Campiile subdeluroase, piemontane, de glacis / Campiile de glacis, luncile tabulare /
+normal-geografie/Mediul pelagic al platformei litorale prezinta: / Plancton si necton / Bentos animal / Bentos vegetal / Bentos mixt animal si vegetal /
+normal-geografie/Coboararea coniferelor in Depresiunea Soveja: / Sta sub influenta vanturilor de nord-est / Sta sub influente de aer vestic / Sta sub influenta foehnului / Sta sub influente de aer marin /
+normal-geografie/In Campia de Vest, intinderea cea mai mare o are unul din urmatoarle etipuri de campii: / De glacis / Piemontane / De subsidenta / De acumulare /
+af-geografie/Spania este cel mai mare cultivator de stejar de pluta / Fals / Adevarat /
+af-geografie/Norvegia extrage zacaminte de petrol si gaze naturale din Marea Nordului / Adevarat / Fals /
+af-geografie/Vegetatia de maquis  este prezenta in Spania / Fals / Adevarat /
+af-geografie/Soluri de tip terra rosa sunt specifice Spaniei / Fals / Adevarat /
+af-geografie/Clima temperat-oceanica este specifica Norvegiei / Fals / Adevarat /
+af-geografie/Cea mai populata capitala europeana este Moscova / Adevarat / Fals /
+af-geografie/Vegetatia de tundra este prezenta in Norvegia / Adevarat / Fals /
+af-geografie/Fluviul Loara strabate teritoriul statului a carui capitala este orasul Paris: / Adevarat / Fals /
+af-geografie/Cel mai mare port maritim se afla pe teritoriul Olandei / Adevarat / Fals /
+af-geografie/Romania are 41 de unitati administrative in prezent / Adevarat / Fals /
+af-geografie/Bacau este judetul cu cea mai mare populatie din Romania / Fals / Adevarat /
+af-geografie/44 de state se afla integral in cadrul Europei / Adevarat / Fals /
+af-geografie/Zimnicea este cea mai sudica localitate a Romaniei. / Adevarat / Fals /
+af-geografie/Beba Veche este cea mai nordica localitate a Romaniei. / Fals / Adevarat /
+af-geografie/Romania cuprine peste 3% din populatia Europei. / Adevarat / Fals /
+af-geografie/Kiselgur este mineralul cu structura lamelara, care face parte din compozitia mai multor roci, mai ales a celor eruptive. / Fals / Adevarat /
+af-geografie/Tarmul prapastios este golful maritim stramt, sinuos si intrat adanc in uscat, cu maluri abrupte si inalte. / Fals / Adevarat /
+af-geografie/Flis este formatia detritica alcatuita din straturi de conglomerate, gresii, argila si marna, formate la fundul unei mari si care a devenit apoi, prin ridicarea acestuia, un lant muntos. / Adevarat / Fals /
+af-geografie/Cupola este fasia de teren cu panta lina si neteda creata la poalele unui abrupt sau a unui versant mai inclinat. / Fals / Adevarat /
+af-geografie/Gnaisul este roca metamorfica cu structura sistoasa, formata din feldspat, cuart si mica. / Adevarat / Fals /
+af-geografie/Silicatul este roca sedimentara silicioasa, formata prin depunerea unor alge microscopice monocelulare; diatomit; tripoli. / Fals / Adevarat /
+af-geografie/Marmura este roca metamorfica cristalizata, alcatuita din calcit sau dolomit, alba sau colorata, intrebuintata in sculptura si ca material de constructie. / Adevarat / Fals /
+af-geografie/Foliate este grupul de minerale de siliciu si aluminiu cristalizate, care se desfac in foite de obicei elastice. / Fals / Adevarat /
+af-geografie/Pedimentele din Dobrogea au o varsta Villafranchiana. / Adevarat / Fals /
+af-geografie/Pestera Izvorul Tausoarelor este pestera cu cea mai mare denivelare din Romania. / Adevarat / Fals /
+af-geografie/Pasul Vartop se afla in munctii Piatra Craiului. / Fals / Adevarat /
+af-geografie/Cea mai lunga pestera din Romania este Pestera Zanelor. / Fals / Adevarat /
+af-geografie/Pasul Merisor (Banita) se afla in Carpatii Meridionali. / Adevarat / Fals /
+af-geografie/Muntii Fagaras au cel mai dezvoltat carst. / Fals / Adevarat /
+af-geografie/Dunele de la Hanul Conachi se afla in Campia Moldovei. / Fals / Adevarat /
+fast-economie/Dupa criteriul subiectului purtator, nevoile se clasifica in: / Individuale si sociale / Colective si sociale / Fiziologice si complexe / Vitale si elevate /
+fast-economie/Carbunele, minereul de fier si padurea sunt resurse: / Primare / Regenerabile / Derivate / Neregenerabile /
+fast-economie/Bunurile care se pot inlocui unul cu altul se numesc bunuri: / Substituibile / Complementare / Inferioare / Superioare /
+fast-economie/Cunoasterea elasticitatii cererii in functie de pret pentru un bun economic este importanta pentru: / Producator / Consumator / Cumparator / Debitor /
+fast-economie/Subiectul proprietatii il constituie: / Agentul vietii economice / Resursele economice / Bunurile libere / Factorii de productie /
+fast-economie/Obiectul proprietatii este reprezentat de: / Bunuri / Consumatori / Vanzatori / Intermediari /
+fast-economie/Care din urmatoarele elemente nu sunt costuri fixe: / Salariile personalului direct productiv / Chiria / Utilitatile / Dobanzile /
+fast-economie/Profitul brut este un indicator economic calculat ca: / Suma dintre profitul net si impozite / Diferenta dintre profitul net si impozite / Suma dintre profitul de monopol si impozite / Diferenta dintre supraprofit si impozite /
+fast-economie/Nivelul masei profitului se afla in relatie de acelasi sens cu: / Pretul de vanzare / Cuantumul salariilor / Nivelul costului / Durata unei rotatii a capitalului /
+fast-economie/In cadrul neofactorilor se includ / Abilitatea intreprinzatorului / Utilajele de ultima generatie / Personalul supracalificat / Utilajele uzate /
+fast-economie/Piata cu concurenta perfecta nu se caracterizeaza prin: / Perfecta eterogenitate a produselor / Atomicitate perfecta / Perfecta mobilitate a factorilor de productie / Transparenta perfecta /
+fast-economie/Piata  furnizorilor de servicii de telefonie mobila in Romania este de tip: / Oligopol / Monopolistic / Monopson / Oligopson /
+fast-economie/Care din urmatoarele piete se apropie de modelul concurentei perfecte: / Piata bursiera / Piata legumelor / Piata producatorilor de automobile / Piata producatorilor de armament /
+fast-economie/In conditiile unei rate de dobanzii de 10%, un depozit bancar de 200.000 u.m. aduce deponentului o dobanda de 10.000 u.m. daca e plasat pe o perioada de: / 6 luni / 2 luni / 3 luni / 12 luni /
+fast-economie/Cea mai mare parte a masei banesti aflata in circulatie se prezinta sub forma: / Monedei metalice / Monedei scripturale / Numerarului / Bancnotei /
+fast-economie/In cate domenii principale se divide economia centrata? / 2 / 4 / 3 / 5 /
+fast-economie/Economie Romaniei se imparte in ... sectoare. / 7 / 5 / 3 / 9 /
+fast-economie/De cate ori a fost Guvernul Boc la guvernare? / 4 / 3 / 2 / 1 /
+fast-economie/Ce fel de stiinta este economia? / Stiinta sociala / Stiinta economica / Stiinta mediului / Stiinta politica /
+fast-economie/O caracteristica esentiala a bunurilor economice este aceea ca: / sunt insuficiente in raport cu nevoile / provin din activitatea economica si din natura  / au un continut material, fiind bunuri tangibile / sunt nelimitate în raport cu nevoile de consum /
+fast-economie/Piaaa monopolistica nu se caracterizeaza prin: / omogenitatea produselor, indiferent de producator / multiple posibilitati de alegere ale cumparatorului / o mai buna satisfacere a cererii / atomicitatea cererii si a ofertei /
+fast-economie/Din punct de vedere economic, este marfa: / un serviciu obtinut prin cumparare / un bun destinat autoconsumului / un bun liber / un bun existent în cantitati nelimitate /
+fast-economie/Daca nivelul productiei este zero, atunci: / costul variabil este mai mare decat costul fix / costul fix este negativ / costul total este egal cu costul fix / costul marginal este mai mare decat costul total mediu /
+fast-economie/Productivitatile marginale ale factorilor de productie munca si capital tehnic sunt 10 si, respectiv, 20. In acest caz, rata de substitutie a capitalului prin munca este: / 2 / 10 / -10 / -0,5 /
+fast-economie/Analiza comportamentului rational al consumatorului se centreaza pe: / utilitatea economica / eficienta sociala / venitul producatorului / piata concurentiala /
+fast-economie/Din punct de vedere economic, proprietatea privata este: / baza economiei de piata / specifica doar economiilor în tranzitie / o componenta a proprietatii publice / un element de limitare a bunastarii /
+fast-economie/Spre deosebire de bunurile libere, bunurile economice: / sunt rare / acopera integral nevoile / se obţin fara efort / exista in cantitati nelimitate /
+fast-economie/Cand coeficientul de elasticitate a ofertei in functie de pret este subunitar, oferta: / este inelastica / este elastica / are elasticitate medie / are elasticitate unitara /
+fast-economie/Modificarea cantitatii cerute in functie de factorii care o determina este în economie numita: / elasticitatea cererii / comportamentul consumatorului / utilitatea economica / eficienta economica
+fast-economie/Piata cu concurenta monopolistica se caracterizeaza prin: / numar mare de vanzatori si de cumparatori / numar mare de vanzatori si putini cumparatori / numar mare de cumparatori si putini vanzatori / numar mare de cumparatori si un vanzator /
+normal-economie/Caracterul limitat al resurselor are in vedere faptul ca: / Sunt insuficiente in raport cu nevoile / Se uzeaza in timp / Sunt refolosibile / Se regenereaza intr-o perioada indelungata /
+normal-economie/La baza Piramidei lui Maslow se afla nevoile / Nevoile fiziologice  / Autorealizare / De siguranta si securitate / De apartenenta /
+normal-economie/Spre deosebire de bunurile libere, bunurile economice: / Sunt rare / Se obtin fara efort / Exista in cantitati nelimitate / Acopera integral nevoile /
+normal-economie/Din punct de vedere al venitului consumatorului, bunurile se clasifica in: / Superioare si inferioare / Economice si libere / Complementare si substituibile / Regenerabile si neregenerabile /
+normal-economie/Coeficientul de elasticitate a cererii la pret se calculeaza ca raport intre modificarea: / Relativa a cererii si modificarea relativa a pretului / Relativa a cererii si modificarea absoluta a pretului / Absoluta a cererii si modificarea relativa a pretului / Absoluta a pretului si modificarea absoluta a cererii /
+normal-economie/In cazul unui bun cu cerere inelastica, daca pretul acestuia creste, atunci cantitatea ceruta: / Scade, iar cheltuielile consumatorului cresc / Creste, iar cheltuielile consumatorului se reduc / Scade, iar cheltuielile consumatorului se reduc si ele / Creste, iar cheltuielile consumatorului cresc si ele /
+normal-economie/Daca o crestere a pretului bunului A duce la cresterea cererii pentru bunul B, atunci A si B sunt bunuri: / Substituibile / Superioare / Complementare / Inferioare /
+normal-economie/Cresterea pretului factorilor de productie va influenta oferta astfel: / Curba ofertei se va deplasa spre stanga / Curba ofertei se va deplasa spre dreapta / Curba cererii se va deplasa spre dreapta / Curba cererii se va deplasa spre stanga /
+normal-economie/Pentru produsul Alfa, cresterea pretului cu 5% determina o crestere a cantitatii oferite in piata cu 10%. In aceste conditii, oferta este: / Elastica / Inelastica / Cu elasticitate unitara / Perfect elastica /
+normal-economie/Pragul de rentabilitate este acel nivel al productiei: / La care cifra de afaceri este egala cu suma costurilor fixe si variabile / La care cifra de afaceri este egala cu valoarea costurilor variabile / Pana la care activitatea are sens economic / La care cifra de afaceri este egala cu valoarea costurilor fixe /
+normal-economie/Cresterea cu 10% a vanzarilor unei firme in conditiile in care pretul, costurile fixe si costul variabil mediu raman constante, va determina: / Cresterea profitului cu mai mult de 10% / Cresterea profitului cu 10% / Cresterea profitului cu mai putin de 10% / Mentinerea profitului la acelasi nivel /
+normal-economie/Care din urmatoarele elemente este constant pentru intervale relativ reduse de variatie a productiei: / Costul variabil mediu / Costul fix mediu / Costul variabil / Energia electrica utilizata in procesul de productie /
+normal-economie/Reducerea in timp a duratei muncii este un proces pozitiv determinat de: / Sporirea productivitatii muncii / Reducerea progresiva a investitiilor / Cresterea si diversificarea nevoilor / Cresterea cheltuielilor de productie /
+normal-economie/Daca un agent economic majoreaza randamentul utilizarii factorilor de productie, mentinand constante costurile si pretul, atunci: / Profitul va creste / Se va declansa falimentul / Se diminueaza eficienta / Rentabilitatea va scadea /
+normal-economie/O firma obtine o productie de 15.000 de bucati dintr-un bun X in conditiile in care productivitatea medie a muncii este de 100. In aceste conditii, numarul de lucratori este: / 150 / 1500 / 200 / 2500 /
+normal-economie/Microeconomia se ocupa cu: / Este o economie care nu ia parte la schimbul international / Se ocupa cu studiul comportamentului economic al diferitilor consumatori (teoria bugetara), al firmei (teoria productiei) si problematica impartirii bunurilor limitate si a venitului limitat / Cerceteaza viata economica de la nivelul subramurilor, ramurilor si zonelor economice / Lucreaza cu marimi agregate, cerceteaza comportamentul economiei in general, cum ar fi venitul total sau gradul de ocupare al fortei de munca, rata inflatiei sau oscilatiile conjuncturale /
+normal-economie/Piata reprezinta rezultatul interactiunii si actiunii comune a celor 4 factori: / Cererea, oferta, pretul si concurenta / Cererea, oferta, pretul si beneficiari / Cererea, oferta, pretul si clientii / Cererea, oferta, pretul si furnizorii /
+normal-economie/Cum se numeste cantitatea totala dintr-o marfa care este dorita si care poate fi cumparata intr-o anumita perioada, la un anumit pret? / Cerere / Comportamentul rational / Rata de schimb / Oferta /
+normal-economie/Ce este bursa? / Notiunea indica locul de intalnire a negustorilor si oamenilor de afaceri, in sensul unui spatiu de concentrare a cererii si ofertei / O intelegere intre doua sau mai multe firme din aceeasi industrie, de a coopera in fixarea preturilor si/sau in a coordona piata si in a restrange de comun acord productia / Conceputa pentru a tine banii in siguranta / Modul de plata pentru bunuri si servicii cu alte bunuri si servicii /
+normal-economie/Ce este OPEC? / Organizatia tarilor exportatoare de petrol / Organizatia Europeana pentru cooperare economica / Agentie guvernamentala in Statele Unite responsabila cu colectarea taxelor federale, inclusiv taxele personale si corporatiste / Organizatia europeana pentru cooperare si dezvoltare /
+normal-economie/In sens general, utilitatea unui bun este data de: / proprietatile intrinseci ale bunului respectiv / marimea produsului / calitatea reclamei / preferintele de consum ale cumparatorului /
+normal-economie/O crestere cu 10% a preturilor determina o reducere cu 20% a cantitatii vandute, astfel încat: / kec|p>1 / kec|p>0 / kec|p=1 / kec|p<1 /
+normal-economie/Consumatorul rational este acel agent economic care: / obtine satisfactia maxima posibila, in conditiile unui venit dat / cheltuieste cat mai putin din venitul sau disponibil / nu tine cont de preferintele sale subiective / cumpara numai bunuri de stricta necesitate /
+normal-economie/Intrarea pe piata a producatorilor, respectiv, iesirea de pe piata a acestora este libera pe: / piata de concurenta perfecta / piata de oligopol / piata cu monopol / piata cu concurenta monopolistica /
+normal-economie/Clasificarea elementelor capitalului tehnic în capital fix si capital circulant are la baza si criteriul: / modului in care se consuma / procurarii / uzurii / formei de existenta fizica /
+normal-economie/Daca o firma utilizeaza un capital în valoare de 4000 u.m., din care 75% reprezinta bunuri de capital fix, avand o durata de functionare de 5 ani, atunci cota anuala de amortizare este de: / 20% / 8% / 6% / 25% /
+normal-economie/Cand productivitatea marginala a factorului substituit este mai mica decat productivitatea marginala a factorului ce il substituie, rata marginala de substitutie: / este mai mare decat 1 / este mai mica decat 1 / este nula / tinde spre infinit /
+normal-economie/Daca volumul valoric al marfurilor tranzactionate într-un an a fost de 250.000 u.m., iar masa monetara a fost de 10.000 u.m., atunci viteza de circulatie a banilor a fost: / 25 / 0,04 / 4 / 2,5 /
+normal-economie/In situatia in care încasarile totale ale firmei scad cu un procentaj mai mic decat scade costul productiei, rata profitului, calculata la cost: / creste / este egala cu rata profitului, calculata la cifra de afaceri / ramane constanta  / este mai mare decat rata profitului, calculata la capital /
+normal-economie/De regula si în conditii normale, daca rata dobanzii pe piata monetara creste, atunci cursul titlurilor la bursa de valori: / scade / se dubleaza / nu este influentat / ramane constant /
+af-economie/Padurea, culturile agricole, bancurile de pesti din ocean sunt resurse regenerabile / Adevarat / Fals /
+af-economie/Intre trasaturile bunurilor economice nu se regaseste limitarea. / Fals / Adevarat /
+af-economie/Nevoile difera de la un individ la altul in functie de o serie factori cum ar fi: mediul in care traieste, grupul social caruia ii apartine, nivelul de educatie, caracteristici personale ale individului etc. / Adevarat / Fals /
+af-economie/Bunurile economice si bunurile libere provin din activitatea economica. / Fals / Adevarat /
+af-economie/Intre pretul produsului si cerere exista o relatie de directa proportionalitate / Fals / Adevarat /
+af-economie/Incasarile producatorilor cresc in conditiile cresterii preturilor pentru bunurile cu cerere unitara / Fals / Adevarat /
+af-economie/Oferta individuala este cantitatea dintr-un bun economic pe care un anumit producator este dispus sa o vanda la un anumit pret. / Adevarat / Fals /
+af-economie/Pe termen scurt, daca nivelul costurilor variabile totale creste mai mult decat creste productia, atunci costul fix unitar va scadea. / Adevarat / Fals /
+af-economie/In componenta cheltuielilor materiale nu sunt cuprinse costurile de amortizare a capitalului fix: / Fals / Adevarat /
+af-economie/Capitalul, ca factor de productie, este format din bunuri rezultate din procese economice anterioare si utilizate in procesul de productie. / Adevarat / Fals /
+af-economie/Cladirile, masinile, utilajele reprezinta amortizari. / Fals / Adevarat /
+af-economie/Uzura fizica si morala sunt specifice capitalului fix. / Adevarat / Fals /
+af-economie/In piata de oligopol, actiunea fiecaruia dintre ofertanti, luata separat, are o influenta semnificativa  asupra pietei. / Adevarat / Fals /
+af-economie/In domenii ca distributia energiei electrice, a gazelor naturale sau a apei curente monopolul se dovedeste a fi cea mai eficienta forma de organizare a pietei. / Adevarat / Fals /
+af-economie/Atunci cand evaluam pretul unui apartament, banii indeplinesc functia de depozit de valoare. / Fals / Adevarat /
+af-economie/Econometria este o combinatie intre economie, matematica si statistica. / Adevarat / Fals /
+af-economie/Paul Krugman a obtinut premiul Nobel pentru analiza structurii comertului si a amplasarii activitatii economice in anul 2007. / Fals / Adevarat /
+af-economie/Modelul economic elaborat de economistii John Hicks si Alvin Hansen in baza teoriei macroeconomice keynesiene este cunoscut sub denumirea Modelul HJ-HA. / Fals / Adevarat /
+af-economie/Alban William Phillips a pus in evidenta o relatie inversa intre rata inflatiei si rata somajului, pe exemplul Marii Britanii. Aveasta relatiei este cunsocuta sub denumirea de curba Phillips.Aceasta si-a gasit confirmarea in realitatea economica de piata pana in anii: 2960-1969. / Adevarat / Fals /
+af-economie/1 decembrie 1990 este data de nastere a Bancii Comerciale Romane. / Adevarat / Fals /
+af-economie/Proces de crestere a nivelului general al preturilor de consum, mecanism care provoaca variatii multiple de lunga durata, generalizeaza el insusi cauzele permanentei sale si exprima prin majoritatea cea mai mare parte a preturilor este capitalismul. / Fals / Adevarat /
+af-economie/Situatia in care o crestere cu 10% a preturilor determina o reducere cu 20% a cantitatii vandute reflecta o cerere elastica. / Adevarat / Fals /
+af-economie/Consumul de capital fix este evidentiat în calculul costului de productie prin profit. / Fals / Adevarat /
+af-economie/In situatia în care pretul de vanzare si costul unitar al unui bun economic scad fiecare cu 20%, rata profitului, calculata la cost ramane constanta. / Adevarat / Fals /
+af-economie/Salariul de echilibru se formeaza atunci cand oferta de munca este egala cu cererea de locuri de munca. / Fals / Adevarat /
+af-economie/Dreptul de proprietate se materializeaza in dreptul de a nu poseda si de a utiliza bunuri, de a dispune de ele si de uzufructul lor. / Fals / Adevarat /
+af-economie/Unul dintre criteriile de grupare a elementelor capitalului tehnic in capital fix si capital circulant este modalitatea de achizitionare. / Fals / Adevarat /
+af-economie/Caracteristica fundamentala a bunurilor economice este raritatea întrucat acestea nu sunt suficiente in raport cu nevoile. / Adevarat / Fals /
+af-economie/Un bun economic poate fi dat spre inchiriere de catre proprietarul sau, in baza dreptului de posesiune. / Fals / Adevarat /
+af-economie/Daca nivelul cheltuielilor salariale, egal cu cel al cheltuielilor materiale, este 500.000 u.m., iar costurile fixe sunt 300.000 u.m., atunci costurile variabile sunt 200.000 u.m.. / Fals / Adevarat /
+#fast-biologie/În structura nucleului intră: / carioplasma / organite celulare comune tuturor celulelor / neurofibrile / centrozomul /
+#fast-biologie/Epiteliul cheratinizat este întâlnit la nivelul​: / epidermei / mucoasei bucale / mucoasei esofagiene / mucoasei faringiene /
+#fast-biologie/Sunt glande endocrine: / glandele suprarenale / glandele sebacee / glandele lacrimale / glandele sudoripare /
+#fast-biologie/Cartilaje fibroase sunt: / discurile intervertebrale / cartilajele costale / cartilajele laringeale / cartilajele traheale /
+#fast-biologie/Gimnospermele aparţin regnului / Plante / Fungi / Monera / Animale /
+#fast-biologie/Din grupul moluştelor fac parte: / cefalopodele / arahnidele / anelidele / hidrozoarele /
+#fast-biologie/Carpienele şi metacarpienele aparţin scheletului:  / membrului superior / capului / membrului inferior / trunchiului  /
+#fast-biologie/Sternocleidomastoidienii sunt muşchi scheletici care aparțin: / gâtului / capului / abdomenului / toracelui /
+#fast-biologie/Ovarele şi testiculele: / secretă hormoni / sunt căi genitale / sunt gameţi / sunt localizate în torace /
+#fast-biologie/Unul dintre hormonii secretați de hipofiză este: / prolactina / adrenalina / insulina / tiroxina /
+#fast-biologie/Gasteropodele, cefalopodele şi lamelibranhiatele sunt: / viermi / cordate / moluşte / celenterate /
+#fast-biologie/Sclerotica este: / învelişul extern al globului ocular  / bogat vascularizată / componentă a sistemului optic / sediul receptorilor vizuali  /
+#fast-biologie/Boală cu transmitere sexuală este: / candidoza / epilepsia / astigmatismul / ateroscleroza  /
+#fast-biologie/Sunt plante: / coniferele / ciupercile / bacteriile / euglenele /
+#fast-biologie/Boală a sistemului respirator la om este: / strabismul / epilepsia / gastrita / laringita /
+#normal-biologie/Ribozomii: / au rol în sinteza proteinelor / sunt mai numeroși în celulele vârstnice / nu se găsesc în neuron / au rol în respirația celulară /
+#normal-biologie/Membrana celulară: / este organizată după modelul mozaicului fluid / conține mitocondrii / conține materialul genetic al celulei / este formată din citosol /
+#normal-biologie/Incluziunile citoplasmatice: / sunt  reprezentate de granule de substanțe de rezervă, produși de secreție /  sunt definitive / formează canalicule / sunt reprezentate de miofibrile și neurofibrile /
+#normal-biologie/La nivel celular, fosforilarea oxidativă se realizează la nivelul: / mitocondriei / centrozomului / ribozomului / reticulului endoplasmatic /
+#normal-biologie/Stimulii cu intensitate inferioară pragului: / nu produc impuls nervos / produc un impuls mai puternic decât cel produs de valoarea prag / nu produc potențiale locale / produc un impuls nervos mai mic decât valoarea prag /
+#normal-biologie/Fotosinteza, la plante: / necesită prezenţa luminii / constă în sinteza de substanţe anorganice / este un tip de nutriţie heterotrofă / se realizează în absenţa pigmenţilor asimilatori  /
+#normal-biologie/Stomacul mamiferelor: / este localizat în cavitatea abdominală / este glandă anexă a sistemului digestiv / participă la realizarea funcţiei de relaţie / produce un suc digestiv lipsit de enzime /
+#normal-biologie/Rinichii:  / sunt componente ale sistemului excretor / au în zona corticală piramide cu baza spre hil / sunt localizaţi în cavitatea toracică / sunt protejaţi de o pleură externă  /
+#normal-biologie/Diencefalul: / este unul dintre componentele encefalului / are suprafaţa brăzdată de şanţuri care delimitează lobi / este alcătuit din bulb, punte şi mezencefal / se leagă de cerebel prin trei perechi de pedunculi /
+#normal-biologie/Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n = 22 cromozomi are: / 2n = 22 cromozomi  / 2n = 11 cromozomi / n = 22 cromozomi / n = 11 cromozomi /
+#normal-biologie/Nutriţia heterotrofă: / se poate realiza saprofit şi parazit / constă în sinteza de substanţe organice / poate fi evidenţiată după O2 absorbi / este specifică organismelor vegetale /
+#normal-biologie/La mamifere, în timpul unei inspiraţii normale: / creşte volumul plămânilor / este eliminat aerul din plămâni / se relaxează muşchii intercostali / sternul se apropie de coloana vertebrală /
+#normal-biologie/Ficatul: / secretă un suc digestiv lipsit de enzime  / degradează lipidele cu ajutorul lipazelor / este localizat în cavitatea toracică / participă la digestia gastrică a glucidelor /
+#normal-biologie/Retina din structura ochiului mamiferelor este: / sediul receptorilor vizual / situată între cornee şi cristalin / înveliş extern al globului ocular / bogat vascularizată /
+#normal-biologie/Organul abdominal care are în structura sa numeroşi nefroni este: / rinichiul / plămânul / esofagul / stomacul /
+#af-biologie/Membrana nucleară este dublă, străbătută de pori. / Adevarat / Fals /
+#af-biologie/Țesutul muscular neted se contractă voluntar / Fals / Adevarat /
+#af-biologie/Celulele gliale iau locul neuronilor distruși / Adevarat / Fals /
+#af-biologie/SIDA este o boală cu transmitere sexuală, provocată de o bacterie. / Fals / Adevarat /
+#af-biologie/Ereditatea şi variabilitatea sunt însuşiri ale lumii vii. / Adevarat / Fals /
+#af-biologie/Bila secretată de ficat conţine enzime lipolitice cu rol în emulsionarea grăsimilor. / Fals / Adevarat /
+#af-biologie/Veziculele seminale sunt conducte genitale ale sistemului reproducător masculin. / Fals / Adevarat /
+#af-biologie/Ribozomii sunt organite specifice celulei animale. / Fals / Adevarat /
+#af-biologie/Sistemul excretor al mamiferelor este alcătuit din rinichi şi căi urinare. / Adevarat / Fals /
+#af-biologie/Celulele cu bastonaşe au rol în deosebirea culorilor. / Fals / Adevarat /
+#af-biologie/În procesul de eliminare, urina trece din uretere în vezica urinară. / Adevarat / Fals /
+#af-biologie/Pepsina face parte din compoziția chimică a sucului pancreatic. / Fals / Adevarat /
+#af-biologie/La mamifere, căile urinare sunt reprezentate de rinichi, uretere şi vezica urinară. / Fals / Adevarat /
+#af-biologie/Tetraplegia este una dintre manifestările epilepsiei. / Fals / Adevarat /
+#af-biologie/Ereditatea şi variabilitatea sunt însuşiri ale lumii vii. / Adevarat / Fals /

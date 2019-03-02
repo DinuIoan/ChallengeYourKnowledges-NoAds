@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".rezultate.GraficeActivity"></activity>
+        <activity android:name=".rezultate.RezultateActivity" />
+        <activity android:name=".rezultate.NoteActivity" />
+        <activity
+            android:name=".splash.SplashActivity"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".game.GameActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:noHistory="true" />
+        <activity android:name=".game.GameOverActivity" />
+        <activity android:name=".rules.RulesActivity" />
+        <activity android:name=".game.CountdownActivity" />
+        <activity android:name=".tipsTricks.TipsAndTricksActivity" />
+        <activity android:name=".zonarelaxare.ZonaRelaxareActivity" />
+        <activity android:name=".zonarelaxare.BancuriStiaiCaActivity" />
+    </application>
+
+</manifest>

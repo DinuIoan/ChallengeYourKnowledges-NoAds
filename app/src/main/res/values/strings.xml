@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">iBAC - Testeaza-ti cunostintele</string>
+    <string name="butonJoaca"> TESTEAZĂ-ȚI CUNOȘTINȚELE </string>
+    <string name="butonTipsTricks"> TIPS and TRICKS </string>
+    <string name="buttonZonaDeRelaxare"> Zona de relaxare </string>
+    <string name="butonReguli">REGULI</string>
+    <string name="title">Învață. Repetă. Câștigă.</string>
+    <string name="da">Da, sunt sigur.</string>
+    <string name="nu">Nu,\n revin la intrebari.</string>
+    <string name="castigaJocuri">Câștigă jocuri</string>
+    <string name="meniu"> Înapoi la meniu </string>
+    <string name="estiSigur"> Esti sigur ca vrei sa renunti?\nDaca da, vei pierde rezultatul.</string>
+    <string name="retryMessage1">Bravo! Ai acumulat </string>
+    <string name="castigaJocuriMessage"> puncte.\nCâștigă jocuri pentru a putea încerca din nou.</string>
+
+    <string-array name="numarIntrebari">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="materii">
+        <item>Limba romana</item>
+        <item>Istorie</item>
+        <item>Geografie</item>
+        <item>Economie</item>
+    </string-array>
+
+    <string name="materieNeselectata">Trebuie selectata materia!</string>
+    <string name="numarIntrebariNeselectat">Trebuie selectat numarul de intrebari dorit!</string>
+    <string name="ok">OK</string>
+    <string name="gasesteDiferentele">Gaseste\ndiferentele</string>
+    <string name="intrebari_normale">Intrebari normale:</string>
+    <string name="conditii_de_stres">Conditii de stres:</string>
+    <string name="adevarat_fals">Adevarat / Fals: </string>
+    <string name="nota_finala">Nota finala: </string>
+    <string name="buttonNote">Note</string>
+    <string name="rezultate">Rezultate</string>
+    <string name="grafice">Grafic</string>
+    <string name="data">Data</string>
+    <string name="nota">Nota</string>
+    <string name="bancuri">Bancuri</string>
+    <string name="stiai_ca">STIAI CA...</string>
+    <string name="tips_and_tricks">TIPS AND TRICKS</string>
+
+</resources>
