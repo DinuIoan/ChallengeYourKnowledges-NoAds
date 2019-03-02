@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.tipsTricks;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.tipsTricks;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -15,8 +15,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.zonarelaxare.ZonaRelaxareActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.zonarelaxare.ZonaRelaxareActivity;
 
 public class TipsAndTricksActivity extends AppCompatActivity {
     private TextView tipsTricksTextView;

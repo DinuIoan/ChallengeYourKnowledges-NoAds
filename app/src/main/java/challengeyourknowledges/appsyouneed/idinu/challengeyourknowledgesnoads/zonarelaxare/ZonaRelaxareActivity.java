@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.zonarelaxare;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.zonarelaxare;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,9 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.MainActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.tipsTricks.TipsAndTricksActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.MainActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.tipsTricks.TipsAndTricksActivity;
 
 public class ZonaRelaxareActivity extends AppCompatActivity {
     private Button buttonBancuri;

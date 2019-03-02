@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

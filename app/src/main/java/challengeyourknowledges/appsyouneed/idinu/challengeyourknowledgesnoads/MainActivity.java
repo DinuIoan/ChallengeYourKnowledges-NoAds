@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,14 +8,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseData;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseHandler;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.InitializeDatabase;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.game.CountdownActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.rezultate.NoteActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.rezultate.RezultateActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.rules.RulesActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.zonarelaxare.ZonaRelaxareActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseData;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseHandler;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.InitializeDatabase;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.game.CountdownActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.rezultate.NoteActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.rezultate.RezultateActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.rules.RulesActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.zonarelaxare.ZonaRelaxareActivity;
 
 public class MainActivity extends AppCompatActivity {
     private Button playButton;

@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.rezultate;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.rezultate;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -11,10 +11,10 @@ import android.widget.Button;
 import java.util.ArrayList;
 import java.util.List;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.MainActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseHandler;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Nota;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.MainActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseHandler;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Nota;
 
 public class NoteActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;

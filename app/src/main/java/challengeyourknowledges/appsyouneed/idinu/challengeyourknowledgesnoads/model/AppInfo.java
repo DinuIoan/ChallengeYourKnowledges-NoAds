@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model;
 
 public class AppInfo {
     private Long id;

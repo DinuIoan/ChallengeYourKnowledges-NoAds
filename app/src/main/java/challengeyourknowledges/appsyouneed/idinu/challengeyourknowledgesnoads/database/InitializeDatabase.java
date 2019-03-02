@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database;
 
 
 import android.content.Context;
@@ -12,13 +12,13 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.AppInfo;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Banc;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Game;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.PlayerState;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Question;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.StiaiCa;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.AppInfo;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Banc;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Game;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.PlayerState;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Question;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.StiaiCa;
 
 public class InitializeDatabase {
     private static DatabaseHandler databaseHandler;

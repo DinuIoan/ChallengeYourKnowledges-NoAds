@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.zonarelaxare;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.zonarelaxare;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,10 +11,10 @@ import android.widget.TextView;
 import java.util.Collections;
 import java.util.List;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseData;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Banc;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.StiaiCa;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseData;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Banc;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.StiaiCa;
 
 public class BancuriStiaiCaActivity extends AppCompatActivity {
     private boolean isBancuri = false;

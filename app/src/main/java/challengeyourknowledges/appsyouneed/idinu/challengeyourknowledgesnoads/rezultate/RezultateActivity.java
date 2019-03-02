@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.rezultate;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.rezultate;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,8 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.MainActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.MainActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
 
 public class RezultateActivity extends AppCompatActivity {
     private Button noteButton;

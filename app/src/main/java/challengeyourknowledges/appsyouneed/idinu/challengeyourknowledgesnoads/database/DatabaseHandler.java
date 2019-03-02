@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -12,14 +12,14 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.AppInfo;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Banc;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Game;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Nota;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.PlayerState;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Question;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Rankings;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.StiaiCa;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.AppInfo;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Banc;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Game;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Nota;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.PlayerState;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Question;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Rankings;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.StiaiCa;
 
 public class DatabaseHandler extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "gameOfThronesDb";

@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.splash;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.splash;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -7,12 +7,12 @@ import android.os.CountDownTimer;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.MainActivity;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.R;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseData;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.DatabaseHandler;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.InitializeDatabase;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.game.CountdownActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.MainActivity;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.R;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseData;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.DatabaseHandler;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.InitializeDatabase;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.game.CountdownActivity;
 
 public class SplashActivity extends AppCompatActivity {
         private DatabaseHandler db;

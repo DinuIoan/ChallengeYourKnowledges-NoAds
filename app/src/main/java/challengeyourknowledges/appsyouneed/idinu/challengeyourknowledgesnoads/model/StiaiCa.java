@@ -1,4 +1,4 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model;
 
 public class StiaiCa {
     private Integer id;

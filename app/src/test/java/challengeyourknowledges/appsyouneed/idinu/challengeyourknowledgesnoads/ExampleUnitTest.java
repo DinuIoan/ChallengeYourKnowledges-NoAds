@@ -1,9 +1,9 @@
-package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges;
+package challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads;
 
 import org.junit.Test;
 
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.database.InitializeDatabase;
-import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledges.model.Question;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.database.InitializeDatabase;
+import challengeyourknowledges.appsyouneed.idinu.challengeyourknowledgesnoads.model.Question;
 
 import static org.junit.Assert.*;
 
